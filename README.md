@@ -1,6 +1,6 @@
 # Classification_Project_Machine_Learning
 
-P!_Data.csv - Dataset that can be used for training the model in this project.
+P1_Data.csv - Dataset that can be used for training the model in this project.
 
 P1_Test.csv - Dataset that needs to be predicted for this project.
 
